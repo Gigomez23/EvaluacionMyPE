@@ -1,0 +1,10 @@
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\prueba\Problema4\bin\Debug\Problema4.exe.config
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\prueba\Problema4\bin\Debug\Problema4.exe
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\prueba\Problema4\bin\Debug\Problema4.pdb
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\prueba\Problema4\obj\Debug\Problema4.csproj.AssemblyReference.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\prueba\Problema4\obj\Debug\Problema4.Form1.resources
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\prueba\Problema4\obj\Debug\Problema4.Properties.Resources.resources
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\prueba\Problema4\obj\Debug\Problema4.csproj.GenerateResource.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\prueba\Problema4\obj\Debug\Problema4.csproj.CoreCompileInputs.cache
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\prueba\Problema4\obj\Debug\Problema4.exe
+C:\Users\comgo\Desktop\College Work\Semestre II IV\Met. y prog. estr\prueba\Problema4\obj\Debug\Problema4.pdb
