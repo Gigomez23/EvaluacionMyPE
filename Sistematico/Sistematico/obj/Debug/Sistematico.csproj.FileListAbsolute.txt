@@ -1,0 +1,10 @@
+C:\Users\lacay\OneDrive\Documentos\MyPE\Sistematico\Sistematico\bin\Debug\Sistematico.exe.config
+C:\Users\lacay\OneDrive\Documentos\MyPE\Sistematico\Sistematico\bin\Debug\Sistematico.exe
+C:\Users\lacay\OneDrive\Documentos\MyPE\Sistematico\Sistematico\bin\Debug\Sistematico.pdb
+C:\Users\lacay\OneDrive\Documentos\MyPE\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.AssemblyReference.cache
+C:\Users\lacay\OneDrive\Documentos\MyPE\Sistematico\Sistematico\obj\Debug\Sistematico.Form1.resources
+C:\Users\lacay\OneDrive\Documentos\MyPE\Sistematico\Sistematico\obj\Debug\Sistematico.Properties.Resources.resources
+C:\Users\lacay\OneDrive\Documentos\MyPE\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.GenerateResource.cache
+C:\Users\lacay\OneDrive\Documentos\MyPE\Sistematico\Sistematico\obj\Debug\Sistematico.csproj.CoreCompileInputs.cache
+C:\Users\lacay\OneDrive\Documentos\MyPE\Sistematico\Sistematico\obj\Debug\Sistematico.exe
+C:\Users\lacay\OneDrive\Documentos\MyPE\Sistematico\Sistematico\obj\Debug\Sistematico.pdb
